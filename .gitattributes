@@ -5,4 +5,4 @@
 CHANGELOG.md export-ignore
 
 $ cat .gitattributes
-*.rb linguist-language=PHP
+*.php linguist-language=PHP
