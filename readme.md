@@ -1,3 +1,5 @@
+This website is deployed on a free instance of AWS at http://h2odemo-env.d9itrph6cd.us-east-2.elasticbeanstalk.com/
+
 <p>After having an interview with an IOT start up in Texas I learned that they were thinking of hiring a backend Laravel engineer for their website.  After a bit of research I became really interested in the framework and decided to take a couple weeks to familiarize myself with the tech stack and build a demo site for them.  This site uses a MVC paradigm, SQL database, demonstrates CRUD functionality and features a RESTful API.  Most of the interesting code is found in these folders: </p>
 <p>Model: APP/</p>
 <p>View: Resources/Views</p>
